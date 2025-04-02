@@ -28,11 +28,6 @@ The app includes the following celebrities:
 
 The images are stored in the `app/src/main/res/drawable-nodpi` directory.
 
-## Requirements
-
-- Android 7.0+ (API level 24)
-- Support for portrait mode
-
 ## Running the App
 
 1. Open in Android Studio
