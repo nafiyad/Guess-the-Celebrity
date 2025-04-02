@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Default Theme Colors -->
+    <color name="default_primary">#6200EE</color>
+    <color name="default_secondary">#03DAC5</color>
+    <color name="default_accent">#FF5722</color>
+    <color name="default_background">#FFFFFF</color>
+    <color name="default_text">#000000</color>
+    <color name="default_text_secondary">#9a9a9a</color>
+    
+    <!-- Dark Theme Colors -->
+    <color name="dark_primary">#BB86FC</color>
+    <color name="dark_secondary">#03DAC6</color>
+    <color name="dark_accent">#CF6679</color>
+    <color name="dark_background">#121212</color>
+    <color name="dark_text">#FFFFFF</color>
+    <color name="dark_text_secondary">#B3B3B3</color>
+</resources>
